@@ -1,0 +1,8 @@
+/* Here going your css code */
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    background: linear-gradient(to bottom, #aff968 0%,#407744 100%);
+}
